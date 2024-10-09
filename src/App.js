@@ -10,6 +10,7 @@ import './App.css';
 import Header from './cmps/Header';
 import SideBar from './cmps/SideBar';
 import Main from './cmps/Main';
+import Footer from './cmps/Footer';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Header />
       <SideBar />
       <Main />
+      <Footer />
     </>
   );
 }

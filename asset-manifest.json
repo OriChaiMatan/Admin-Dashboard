@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Admin-Dashboard/static/css/main.0710336e.css",
+    "main.js": "/Admin-Dashboard/static/js/main.820c4fa2.js",
+    "static/js/453.fadc3cd2.chunk.js": "/Admin-Dashboard/static/js/453.fadc3cd2.chunk.js",
+    "static/media/remixicon.svg?t=1718271040674": "/Admin-Dashboard/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/remixicon.eot?t=1718271040674": "/Admin-Dashboard/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/Admin-Dashboard/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/image.png": "/Admin-Dashboard/static/media/image.8838570fe392516b2b36.png",
+    "static/media/remixicon.woff?t=1718271040674": "/Admin-Dashboard/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/bootstrap-icons.woff?": "/Admin-Dashboard/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/remixicon.woff2?t=1718271040674": "/Admin-Dashboard/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "static/media/bootstrap-icons.woff2?": "/Admin-Dashboard/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/news-4.jpg": "/Admin-Dashboard/static/media/news-4.7baac2bc28c6fc1fb6d3.jpg",
+    "static/media/news-5.jpg": "/Admin-Dashboard/static/media/news-5.d9c45891df80905de8ad.jpg",
+    "static/media/news-1.jpg": "/Admin-Dashboard/static/media/news-1.6c72901270d9ddaf65fc.jpg",
+    "static/media/news-2.jpg": "/Admin-Dashboard/static/media/news-2.8a5548fe4268c0219f3e.jpg",
+    "static/media/news-3.jpg": "/Admin-Dashboard/static/media/news-3.0eb7f94df65372166a74.jpg",
+    "static/media/product-2.jpg": "/Admin-Dashboard/static/media/product-2.e59db017a8627e06b959.jpg",
+    "static/media/product-1.jpg": "/Admin-Dashboard/static/media/product-1.59317eca101faef7fff9.jpg",
+    "static/media/product-3.jpg": "/Admin-Dashboard/static/media/product-3.20361ab11b9417613069.jpg",
+    "static/media/product-5.jpg": "/Admin-Dashboard/static/media/product-5.a6cf2953aeb1c8db9abc.jpg",
+    "index.html": "/Admin-Dashboard/index.html",
+    "main.0710336e.css.map": "/Admin-Dashboard/static/css/main.0710336e.css.map",
+    "main.820c4fa2.js.map": "/Admin-Dashboard/static/js/main.820c4fa2.js.map",
+    "453.fadc3cd2.chunk.js.map": "/Admin-Dashboard/static/js/453.fadc3cd2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0710336e.css",
+    "static/js/main.820c4fa2.js"
+  ]
+}

@@ -11,6 +11,7 @@ import Header from './cmps/Header';
 import SideBar from './cmps/SideBar';
 import Main from './cmps/Main';
 import Footer from './cmps/Footer';
+import ScroolBack from './cmps/ScroolBack';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <SideBar />
       <Main />
       <Footer />
+      <ScroolBack />
     </>
   );
 }
